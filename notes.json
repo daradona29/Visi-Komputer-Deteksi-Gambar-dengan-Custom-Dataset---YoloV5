@@ -1,0 +1,49 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "anjing"
+    },
+    {
+      "id": 1,
+      "name": "ayam"
+    },
+    {
+      "id": 2,
+      "name": "bebek"
+    },
+    {
+      "id": 3,
+      "name": "bus"
+    },
+    {
+      "id": 4,
+      "name": "kucing"
+    },
+    {
+      "id": 5,
+      "name": "lampu"
+    },
+    {
+      "id": 6,
+      "name": "mobil"
+    },
+    {
+      "id": 7,
+      "name": "sandal"
+    },
+    {
+      "id": 8,
+      "name": "sepatu"
+    },
+    {
+      "id": 9,
+      "name": "sepeda"
+    }
+  ],
+  "info": {
+    "year": 2023,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
